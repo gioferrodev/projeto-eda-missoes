@@ -1,11 +1,8 @@
-# Missões Espaciais
+# Aprendendo data science
 
-Todas as missões espaciais de 1957 a agosto de 2022, incluindo detalhes sobre o local, data e resultado do lançamento, a empresa responsável e o nome, preço e status do foguete usado para a missão.
+### Análise exploratória dos dados de missões espaciais de 1957 até agosto/2022
 
-### Análises recomendada
+Sou um fã de astronomia no geral e estou aprendendo ciêcia de dados. Então porque não juntar os dois mundos e aprender coisas legais, né!. O dataset foi retirado do site [MavenAnalytics]('https://www.mavenanalytics.io/data-playground').
 
-* Qual foi a tendência dos lançamentos de foguetes ao longo do tempo? A taxa de sucesso da missão aumentou?
-* Quais países tiveram as missões espaciais mais bem-sucedidas?
-* Sempre foi assim?
-* Qual foguete foi usado para mais missões espaciais? Ainda está ativo?
-* Existem padrões que você pode notar com os locais de lançamento?
+
+
